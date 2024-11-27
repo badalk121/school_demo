@@ -1,8 +1,6 @@
 # School Demo Project
-
----
 The School Demo Project is a PHP and MySQL-based web application for managing students and classes. It features CRUD operations for students, including image uploads, and class management. The project is styled with Bootstrap for a modern, responsive design. Students' details, including class names, are dynamically displayed using SQL JOIN queries. The application includes secure file handling, form validation, and an intuitive user interface. Designed for educational purposes, it demonstrates core concepts of web development, database integration, and server-side programming.
----
+
 
 ## Features
 1. **Home Page**: List all students with their details and options to view, edit, or delete them.
@@ -12,14 +10,10 @@ The School Demo Project is a PHP and MySQL-based web application for managing st
 5. **Delete Student**: Remove a student and their image from the server.
 6. **Manage Classes**: Add and list all available classes.
 
----
-
 ## Prerequisites
 1. Install [XAMPP](https://www.apachefriends.org/index.html) on your Windows 10 system.
 2. Install a code editor like [Visual Studio Code (VS Code)](https://code.visualstudio.com/).
 3. Basic understanding of PHP and MySQL.
-
----
 
 ## Steps to run the project locally
 
@@ -78,8 +72,6 @@ The School Demo Project is a PHP and MySQL-based web application for managing st
 1. Open your browser and navigate to: `http://localhost/school_demo/`
 2. Use the application to manage students and classes.
 
----
-
 ## Project files
 - **db.php**: Database connection file.
 - **index.php**: Home page listing all students.
@@ -88,8 +80,6 @@ The School Demo Project is a PHP and MySQL-based web application for managing st
 - **edit.php**: Form to edit a student's information.
 - **delete.php**: Deletes a student and their image.
 - **classes.php**: Manage class names.
-
----
 
 ## Notes
 1. **Uploads directory**:
@@ -101,8 +91,6 @@ The School Demo Project is a PHP and MySQL-based web application for managing st
 
 3. **Styling**:
    - The project uses **Bootstrap** for responsiveness and visual appeal.
-
----
 
 ## Troubleshooting
 - **Error: Database connection failed**:
