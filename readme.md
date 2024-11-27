@@ -1,6 +1,7 @@
 # School Demo Project
 
-A PHP and MySQL based application to manage students and classes with CRUD functionalities.
+---
+The School Demo Project is a PHP and MySQL-based web application for managing students and classes. It features CRUD operations for students, including image uploads, and class management. The project is styled with Bootstrap for a modern, responsive design. Students' details, including class names, are dynamically displayed using SQL JOIN queries. The application includes secure file handling, form validation, and an intuitive user interface. Designed for educational purposes, it demonstrates core concepts of web development, database integration, and server-side programming.
 ---
 
 ## Features
